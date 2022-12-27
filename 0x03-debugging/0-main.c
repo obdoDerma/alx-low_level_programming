@@ -1,4 +1,5 @@
 #include "main.h"
+
 /**
  * main - test function thay prints if positive or negative
  * Return: 0
@@ -6,6 +7,7 @@
 int main(void)
 
 {
+
 	int i;
 
 	i = 0;
